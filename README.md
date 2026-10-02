@@ -1,6 +1,6 @@
 # Beekeeper Studio SQL
 
-![Banner Placeholder](apps/image1)
+![Banner Placeholder](apps/image1.png)
 
 Beekeeper Studio SQL is a desktop Beekeeper Studio SQL Editor and Beekeeper Studio database manager for people who live in query tabs. You open a Beekeeper Studio database connection, write SQL, scan a result grid, and leave with a saved query instead of a pile of untitled windows.
 
@@ -101,7 +101,7 @@ Beekeeper Studio docker setups in this repo are for fixtures: MySQL sample schem
 
 ## Beekeeper Studio SQL Editor
 
-![Editor Placeholder](apps/image2)
+![Editor Placeholder](apps/image2.png)
 
 The Beekeeper Studio SQL Editor is the tab where statements live. One tab, one buffer. Several tabs if you are comparing two queries. Completion reads the schema of the current Beekeeper Studio database connection, so a stale connection gives stale names.
 
@@ -116,7 +116,7 @@ The editor writes SQL. The engine plans it. A slow query is often an index probl
 
 ## Table editor and data editor
 
-![Grid Placeholder](apps/image3)
+![Grid Placeholder](apps/image3.png)
 
 The Beekeeper Studio table editor opens a grid on one table. Sort, filter, and edit cells when the connection allows writes. The Beekeeper Studio data editor is the same idea for a result set that maps cleanly back to rows.
 
